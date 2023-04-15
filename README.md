@@ -11,3 +11,4 @@ torchvision- 0.15.1
 numpy- 1.22.4
 matplotlib- 3.7.1
 ```
+Report.pdf file contains a detailed report on the different approaches that were tried and what worked and what didn't work for us.
